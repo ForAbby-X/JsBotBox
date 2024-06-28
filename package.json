@@ -1,0 +1,18 @@
+{
+	"name": "my_game",
+	"version": "1.0.0",
+	"description": "",
+	"scripts": {
+		"build": "npx tsc",
+		"start": "npx vite"
+	},
+	"author": "OUE",
+	"license": "NOP",
+	"dependencies": {
+	},
+	"devDependencies": {
+		"@types/three": "^0.165.0",
+		"three": "^0.165.0",
+		"typescript": "^5.5.2"
+	}
+}
